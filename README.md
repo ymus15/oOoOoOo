@@ -1,5 +1,5 @@
 # TUTORIAL
-## How to use oOoOoOo programming language
+## How to use oOoOoOo "programming" language
 # WARNING you must have Python 3.7+
 #### 1. If you cloned this repository, go to oOoOoOo folder (it's in repository folder).
 #### 2. Make a .oOoOoOo file.
